@@ -1,0 +1,2104 @@
+[
+  {
+    "id": "550bc-cyrus-empire",
+    "type": "empire-founding",
+    "description": "Cyrus the Great establishes the Achaemenid Empire, creating the first Persian Empire and one of the largest empires in ancient history.",
+    "dateRange": {
+      "from": "550-01-01",
+      "to": "550-12-31",
+      "precision": "year"
+    },
+    "priority": {
+      "range": 10,
+      "level": 10,
+      "description": "Foundation of Persian civilization and empire that would influence the region for centuries."
+    },
+    "entities": [
+      {
+        "id": "cyrus-great",
+        "label": "Cyrus the Great",
+        "entityType": "person"
+      },
+      {
+        "id": "achaemenid-empire",
+        "label": "Achaemenid Empire",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Pasargadae",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 30.1939,
+        "long": 53.1678
+      }
+    },
+    "relationships": [],
+    "citations": [
+      {
+        "citationId": "cyrus-cylinder",
+        "referenceType": "artifact",
+        "title": "Cyrus Cylinder",
+        "link": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Cyrus is remembered for his policy of religious tolerance and the Cyrus Cylinder, considered the first declaration of human rights.",
+      "keywords": ["empire", "foundation", "tolerance", "human rights"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1789-qajar-dynasty-founded",
+    "type": "dynasty-establishment",
+    "description": "Agha Mohammad Khan Qajar establishes the Qajar dynasty after defeating the Zand dynasty, becoming the first Qajar Shah and reunifying Iran.",
+    "dateRange": {
+      "from": "1789-03-21",
+      "to": "1789-03-21",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Foundation of the Qajar dynasty and reunification of Iran after a period of fragmentation."
+    },
+    "entities": [
+      {
+        "id": "agha-mohammad-khan",
+        "label": "Agha Mohammad Khan Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "qajar-dynasty",
+        "label": "Qajar Dynasty",
+        "entityType": "group"
+      },
+      {
+        "id": "zand-dynasty",
+        "label": "Zand Dynasty",
+        "entityType": "group"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1797-agha-mohammad-assassination"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "qajar-foundation",
+        "referenceType": "textual",
+        "title": "Qajar Dynasty Foundation",
+        "link": "https://www.britannica.com/topic/Qajar-dynasty"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Agha Mohammad Khan was a eunuch who rose to power and established Tehran as the capital of Iran.",
+      "keywords": ["dynasty", "reunification", "capital", "eunuch", "fragmentation"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1797-agha-mohammad-assassination",
+    "type": "assassination",
+    "description": "Agha Mohammad Khan Qajar is assassinated in Shusha, leading to the ascension of his nephew Fath-Ali Shah Qajar.",
+    "dateRange": {
+      "from": "1797-06-17",
+      "to": "1797-06-17",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Assassination of the first Qajar Shah and transition to Fath-Ali Shah's reign."
+    },
+    "entities": [
+      {
+        "id": "agha-mohammad-khan",
+        "label": "Agha Mohammad Khan Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      }
+    ],
+    "location": {
+      "address": "Shusha",
+      "country": "Azerbaijan",
+      "coordinates": {
+        "lat": 39.7603,
+        "long": 46.7493
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1789-qajar-dynasty-founded"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "agha-mohammad-death",
+        "referenceType": "textual",
+        "title": "Agha Mohammad Khan's Assassination",
+        "link": "https://www.iranicaonline.org/articles/aga-mohammad-khan"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "His assassination occurred during a campaign in the Caucasus region, and he was succeeded by his nephew Fath-Ali Shah.",
+      "keywords": ["assassination", "succession", "caucasus", "campaign"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1804-russo-persian-war",
+    "type": "war",
+    "description": "The first Russo-Persian War begins, marking the start of a series of conflicts between Persia and Russia over control of the Caucasus region.",
+    "dateRange": {
+      "from": "1804-06-01",
+      "to": "1813-10-24",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "First major war with Russia that resulted in significant territorial losses for Persia."
+    },
+    "entities": [
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "russia",
+        "label": "Russian Empire",
+        "entityType": "nation"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Caucasus Region",
+      "country": "Georgia",
+      "coordinates": {
+        "lat": 41.7151,
+        "long": 44.8271
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1797-agha-mohammad-assassination"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "russo-persian-war-1804",
+        "referenceType": "textual",
+        "title": "Russo-Persian War (1804-1813)",
+        "link": "https://www.britannica.com/event/Russo-Persian-War"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The war ended with the Treaty of Gulistan, which ceded significant territories in the Caucasus to Russia.",
+      "keywords": ["war", "russia", "caucasus", "territorial loss", "treaty of gulistan"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1813-treaty-gulistan",
+    "type": "treaty",
+    "description": "The Treaty of Gulistan ends the first Russo-Persian War, forcing Persia to cede territories including Georgia, Dagestan, and parts of Azerbaijan to Russia.",
+    "dateRange": {
+      "from": "1813-10-24",
+      "to": "1813-10-24",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "First major territorial loss to Russia, establishing Russian influence in the Caucasus."
+    },
+    "entities": [
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "russia",
+        "label": "Russian Empire",
+        "entityType": "nation"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Gulistan",
+      "country": "Azerbaijan",
+      "coordinates": {
+        "lat": 39.7603,
+        "long": 46.7493
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1804-russo-persian-war"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "treaty-gulistan",
+        "referenceType": "textual",
+        "title": "Treaty of Gulistan",
+        "link": "https://www.britannica.com/event/Treaty-of-Gulistan"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "This treaty marked the beginning of Persia's territorial decline and Russia's expansion into the Caucasus region.",
+      "keywords": ["treaty", "territorial loss", "russian expansion", "caucasus", "georgia"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1826-russo-persian-war-second",
+    "type": "war",
+    "description": "The second Russo-Persian War begins when Persia attempts to regain territories lost in the Treaty of Gulistan.",
+    "dateRange": {
+      "from": "1826-07-16",
+      "to": "1828-02-22",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Second major war with Russia that resulted in further territorial losses and the Treaty of Turkmenchay."
+    },
+    "entities": [
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "russia",
+        "label": "Russian Empire",
+        "entityType": "nation"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Caucasus Region",
+      "country": "Azerbaijan",
+      "coordinates": {
+        "lat": 41.7151,
+        "long": 44.8271
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1813-treaty-gulistan"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "russo-persian-war-1826",
+        "referenceType": "textual",
+        "title": "Russo-Persian War (1826-1828)",
+        "link": "https://www.britannica.com/event/Russo-Persian-War"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The war ended with the Treaty of Turkmenchay, which ceded even more territories including Yerevan and Nakhichevan to Russia.",
+      "keywords": ["war", "russia", "territorial loss", "treaty of turkmenchay", "armenia"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1828-treaty-turkmenchay",
+    "type": "treaty",
+    "description": "The Treaty of Turkmenchay ends the second Russo-Persian War, ceding Yerevan, Nakhichevan, and other territories to Russia, and establishing the Aras River as the border.",
+    "dateRange": {
+      "from": "1828-02-22",
+      "to": "1828-02-22",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Definitive territorial loss to Russia and establishment of modern Iran-Russia border."
+    },
+    "entities": [
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "russia",
+        "label": "Russian Empire",
+        "entityType": "nation"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Turkmenchay",
+      "country": "Azerbaijan",
+      "coordinates": {
+        "lat": 38.9637,
+        "long": 45.8233
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1826-russo-persian-war-second"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "treaty-turkmenchay",
+        "referenceType": "textual",
+        "title": "Treaty of Turkmenchay",
+        "link": "https://www.britannica.com/event/Treaty-of-Turkmenchay"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "This treaty established the modern border between Iran and Russia/Azerbaijan and marked the end of Persian influence in the Caucasus.",
+      "keywords": ["treaty", "border", "territorial loss", "aras river", "yerevan", "nakhichevan"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1834-fath-ali-shah-death",
+    "type": "leadership-change",
+    "description": "Fath-Ali Shah Qajar dies after a 37-year reign, during which Persia lost significant territories to Russia in the Caucasus wars.",
+    "dateRange": {
+      "from": "1834-10-23",
+      "to": "1834-10-23",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "End of Fath-Ali Shah's long reign and transition to Mohammad Shah Qajar."
+    },
+    "entities": [
+      {
+        "id": "fath-ali-shah",
+        "label": "Fath-Ali Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "mohammad-shah",
+        "label": "Mohammad Shah Qajar",
+        "entityType": "person"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1828-treaty-turkmenchay"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "fath-ali-shah-death",
+        "referenceType": "textual",
+        "title": "Fath-Ali Shah's Death",
+        "link": "https://www.iranicaonline.org/articles/fath-ali-shah-qajar"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "His reign was marked by territorial losses to Russia and the beginning of Persia's decline as a regional power.",
+      "keywords": ["death", "succession", "territorial loss", "decline", "russia"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1848-naser-al-din-shah-ascension",
+    "type": "ascension",
+    "description": "Naser al-Din Shah Qajar ascends to the throne, beginning a 48-year reign that would see Persia's modernization attempts and further foreign influence.",
+    "dateRange": {
+      "from": "1848-09-17",
+      "to": "1848-09-17",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Beginning of Naser al-Din Shah's long reign and Persia's attempts at modernization."
+    },
+    "entities": [
+      {
+        "id": "naser-al-din-shah",
+        "label": "Naser al-Din Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "qajar-dynasty",
+        "label": "Qajar Dynasty",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1834-fath-ali-shah-death"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "naser-al-din-ascension",
+        "referenceType": "textual",
+        "title": "Naser al-Din Shah's Ascension",
+        "link": "https://www.britannica.com/biography/Naser-al-Din-Shah"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Naser al-Din Shah would become the longest-reigning Qajar monarch and attempt various modernization reforms.",
+      "keywords": ["ascension", "modernization", "reforms", "long reign", "foreign influence"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1872-reuter-concession",
+    "type": "economic-concession",
+    "description": "Naser al-Din Shah grants the Reuter Concession to British businessman Baron Julius de Reuter, giving him extensive economic rights in Persia.",
+    "dateRange": {
+      "from": "1872-07-25",
+      "to": "1872-07-25",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Major economic concession that sparked controversy and was later cancelled due to public opposition."
+    },
+    "entities": [
+      {
+        "id": "naser-al-din-shah",
+        "label": "Naser al-Din Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "julius-reuter",
+        "label": "Baron Julius de Reuter",
+        "entityType": "person"
+      },
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1848-naser-al-din-shah-ascension"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "reuter-concession",
+        "referenceType": "textual",
+        "title": "Reuter Concession",
+        "link": "https://www.britannica.com/event/Reuter-Concession"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The concession was highly controversial and was cancelled in 1873 due to strong opposition from Persian elites and foreign powers.",
+      "keywords": ["concession", "economic rights", "british influence", "controversy", "cancellation"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1896-naser-al-din-assassination",
+    "type": "assassination",
+    "description": "Naser al-Din Shah Qajar is assassinated by Mirza Reza Kermani, a follower of Jamal al-Din al-Afghani, at the Shah Abdul Azim shrine.",
+    "dateRange": {
+      "from": "1896-05-01",
+      "to": "1896-05-01",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Assassination of the longest-reigning Qajar Shah and transition to Mozaffar al-Din Shah."
+    },
+    "entities": [
+      {
+        "id": "naser-al-din-shah",
+        "label": "Naser al-Din Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "mirza-reza-kermani",
+        "label": "Mirza Reza Kermani",
+        "entityType": "person"
+      },
+      {
+        "id": "jamal-al-din-afghani",
+        "label": "Jamal al-Din al-Afghani",
+        "entityType": "person"
+      }
+    ],
+    "location": {
+      "address": "Shah Abdul Azim Shrine, Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1872-reuter-concession"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "naser-al-din-assassination",
+        "referenceType": "textual",
+        "title": "Naser al-Din Shah's Assassination",
+        "link": "https://www.iranicaonline.org/articles/naser-al-din-shah-qajar"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The assassination was motivated by opposition to foreign influence and the Shah's policies, marking growing discontent with Qajar rule.",
+      "keywords": ["assassination", "opposition", "foreign influence", "discontent", "reform movement"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1906-constitutional-revolution",
+    "type": "revolution",
+    "description": "The Persian Constitutional Revolution forces Mozaffar al-Din Shah to grant a constitution and establish a parliament (Majlis), marking the beginning of constitutional monarchy in Iran.",
+    "dateRange": {
+      "from": "1906-08-05",
+      "to": "1906-12-30",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "First constitutional revolution in the Middle East and establishment of parliamentary democracy in Persia."
+    },
+    "entities": [
+      {
+        "id": "mozaffar-al-din-shah",
+        "label": "Mozaffar al-Din Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "majlis",
+        "label": "Persian Parliament (Majlis)",
+        "entityType": "group"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1896-naser-al-din-assassination"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "constitutional-revolution",
+        "referenceType": "textual",
+        "title": "Persian Constitutional Revolution",
+        "link": "https://www.britannica.com/event/Persian-Constitutional-Revolution"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The revolution established Iran's first constitution and parliament, though the monarchy retained significant power.",
+      "keywords": ["constitution", "parliament", "democracy", "revolution", "monarchy"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1925-qajar-dynasty-overthrown",
+    "type": "dynasty-overthrow",
+    "description": "Reza Khan stages a coup and overthrows the Qajar dynasty, ending 136 years of Qajar rule and establishing the Pahlavi dynasty.",
+    "dateRange": {
+      "from": "1925-12-12",
+      "to": "1925-12-12",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "End of the Qajar dynasty and beginning of the Pahlavi era, marking a new chapter in Iranian history."
+    },
+    "entities": [
+      {
+        "id": "ahmad-shah-qajar",
+        "label": "Ahmad Shah Qajar",
+        "entityType": "person"
+      },
+      {
+        "id": "reza-shah",
+        "label": "Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "qajar-dynasty",
+        "label": "Qajar Dynasty",
+        "entityType": "group"
+      },
+      {
+        "id": "pahlavi-dynasty",
+        "label": "Pahlavi Dynasty",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1906-constitutional-revolution"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "qajar-overthrow",
+        "referenceType": "textual",
+        "title": "Qajar Dynasty Overthrow",
+        "link": "https://www.britannica.com/topic/Qajar-dynasty"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The overthrow marked the end of the Qajar dynasty's 136-year rule and the beginning of Iran's modernization under the Pahlavis.",
+      "keywords": ["overthrow", "dynasty", "modernization", "coup", "transition"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1925-reza-shah-coup",
+    "type": "coup-d-etat",
+    "description": "Reza Khan, commander of the Persian Cossack Brigade, stages a coup and overthrows the Qajar dynasty, establishing the Pahlavi dynasty.",
+    "dateRange": {
+      "from": "1925-12-12",
+      "to": "1925-12-12",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Founding of the Pahlavi dynasty and end of the Qajar dynasty, marking a new era in Iranian history."
+    },
+    "entities": [
+      {
+        "id": "reza-shah",
+        "label": "Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "pahlavi-dynasty",
+        "label": "Pahlavi Dynasty",
+        "entityType": "group"
+      },
+      {
+        "id": "qajar-dynasty",
+        "label": "Qajar Dynasty",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1925-reza-shah-coronation"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "reza-shah-coup",
+        "referenceType": "textual",
+        "title": "Reza Shah's Rise to Power",
+        "link": "https://www.britannica.com/biography/Reza-Shah-Pahlavi"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Reza Shah initiated modernization reforms including secularization, infrastructure development, and centralization of power.",
+      "keywords": ["coup", "modernization", "secularization", "reforms", "centralization"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1925-reza-shah-coronation",
+    "type": "coronation",
+    "description": "Reza Khan is officially crowned as Reza Shah Pahlavi, becoming the first Shah of the Pahlavi dynasty.",
+    "dateRange": {
+      "from": "1925-12-15",
+      "to": "1925-12-15",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Official establishment of the Pahlavi monarchy and beginning of Reza Shah's reign."
+    },
+    "entities": [
+      {
+        "id": "reza-shah",
+        "label": "Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "pahlavi-dynasty",
+        "label": "Pahlavi Dynasty",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1925-reza-shah-coup"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "reza-shah-coronation",
+        "referenceType": "multimedia",
+        "title": "Reza Shah's Coronation",
+        "link": "https://www.iranicaonline.org/articles/reza-shah-pahlavi"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The coronation marked the formal beginning of the Pahlavi era and Iran's transition to a modern monarchy.",
+      "keywords": ["coronation", "monarchy", "pahlavi era", "modernization"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1935-persia-iran-rename",
+    "type": "name-change",
+    "description": "Reza Shah officially changes the country's name from Persia to Iran, reflecting the nation's Aryan heritage and modern identity.",
+    "dateRange": {
+      "from": "1935-03-21",
+      "to": "1935-03-21",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Symbolic change reflecting Iran's modern identity and connection to its ancient Aryan heritage."
+    },
+    "entities": [
+      {
+        "id": "reza-shah",
+        "label": "Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1925-reza-shah-coronation"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "persia-iran-rename",
+        "referenceType": "textual",
+        "title": "Persia Becomes Iran",
+        "link": "https://www.history.com/this-day-in-history/persia-becomes-iran"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The name change was part of Reza Shah's broader modernization and national identity reforms.",
+      "keywords": ["name change", "national identity", "modernization", "aryan heritage"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1941-reza-shah-abdication",
+    "type": "abdication",
+    "description": "Reza Shah is forced to abdicate by British and Soviet forces who occupied Iran during World War II, leading to his exile and the ascension of his son Mohammad Reza Shah.",
+    "dateRange": {
+      "from": "1941-09-16",
+      "to": "1941-09-16",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Forced abdication due to Allied occupation and transition to Mohammad Reza Shah's reign."
+    },
+    "entities": [
+      {
+        "id": "reza-shah",
+        "label": "Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "mohammad-reza-shah",
+        "label": "Mohammad Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      },
+      {
+        "id": "soviet-union",
+        "label": "Soviet Union",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1941-mohammad-reza-shah-ascension"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "reza-shah-abdication",
+        "referenceType": "textual",
+        "title": "Reza Shah's Abdication",
+        "link": "https://www.britannica.com/event/Anglo-Soviet-invasion-of-Iran"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The abdication was forced by Allied concerns about Reza Shah's perceived pro-German sympathies during WWII.",
+      "keywords": ["abdication", "world war II", "allied occupation", "exile", "succession"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1941-mohammad-reza-shah-ascension",
+    "type": "ascension",
+    "description": "Mohammad Reza Shah Pahlavi ascends to the throne following his father's abdication, beginning his 37-year reign.",
+    "dateRange": {
+      "from": "1941-09-16",
+      "to": "1941-09-16",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Beginning of Mohammad Reza Shah's reign and continuation of the Pahlavi dynasty."
+    },
+    "entities": [
+      {
+        "id": "mohammad-reza-shah",
+        "label": "Mohammad Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "pahlavi-dynasty",
+        "label": "Pahlavi Dynasty",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1941-reza-shah-abdication"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "mohammad-reza-shah-ascension",
+        "referenceType": "textual",
+        "title": "Mohammad Reza Shah's Ascension",
+        "link": "https://www.britannica.com/biography/Mohammad-Reza-Shah-Pahlavi"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Mohammad Reza Shah would rule Iran for 37 years, overseeing significant modernization and facing growing opposition.",
+      "keywords": ["ascension", "monarchy", "modernization", "pahlavi dynasty"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1953-mossadegh-coup",
+    "type": "coup-d-etat",
+    "description": "The CIA and British MI6 orchestrate a coup that overthrows Prime Minister Mohammad Mossadegh, who had nationalized Iran's oil industry, restoring full power to Mohammad Reza Shah.",
+    "dateRange": {
+      "from": "1953-08-19",
+      "to": "1953-08-19",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Critical event that restored Shah's power and established US influence in Iran, leading to decades of resentment."
+    },
+    "entities": [
+      {
+        "id": "mossadegh",
+        "label": "Mohammad Mossadegh",
+        "entityType": "person"
+      },
+      {
+        "id": "mohammad-reza-shah",
+        "label": "Mohammad Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "cia",
+        "label": "Central Intelligence Agency",
+        "entityType": "group"
+      },
+      {
+        "id": "mi6",
+        "label": "British Secret Intelligence Service",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1941-mohammad-reza-shah-ascension"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "operation-ajax",
+        "referenceType": "textual",
+        "title": "Operation Ajax",
+        "link": "https://www.cia.gov/readingroom/docs/CIA-RDP79-00927A004500010001-0.pdf"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The coup established US influence in Iran and created lasting anti-American sentiment that contributed to the 1979 revolution.",
+      "keywords": ["coup", "oil nationalization", "CIA", "MI6", "US influence", "anti-American sentiment"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1963-white-revolution",
+    "type": "reform-movement",
+    "description": "Mohammad Reza Shah launches the White Revolution, a series of modernization reforms including land redistribution, women's suffrage, and literacy programs.",
+    "dateRange": {
+      "from": "1963-01-26",
+      "to": "1963-01-26",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Major modernization program that transformed Iranian society but also created opposition from religious conservatives."
+    },
+    "entities": [
+      {
+        "id": "mohammad-reza-shah",
+        "label": "Mohammad Reza Shah Pahlavi",
+        "entityType": "person"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1953-mossadegh-coup"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "white-revolution",
+        "referenceType": "textual",
+        "title": "The White Revolution",
+        "link": "https://www.britannica.com/event/White-Revolution"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The reforms alienated traditional religious leaders and landowners, contributing to the growing opposition that would lead to the 1979 revolution.",
+      "keywords": ["modernization", "land reform", "women's rights", "literacy", "secularization"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1979-islamic-revolution",
+    "type": "revolution",
+    "description": "The Iranian Revolution overthrows the Pahlavi dynasty and establishes the Islamic Republic of Iran under Ayatollah Ruhollah Khomeini.",
+    "dateRange": {
+      "from": "1979-01-01",
+      "to": "1979-02-11",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 10,
+      "description": "Transformative event that reshaped Iran's political, social, and religious landscape and had global implications."
+    },
+    "entities": [
+      {
+        "id": "khomeini",
+        "label": "Ayatollah Ruhollah Khomeini",
+        "entityType": "person"
+      },
+      {
+        "id": "pahlavi-dynasty",
+        "label": "Pahlavi Dynasty",
+        "entityType": "group"
+      },
+      {
+        "id": "islamic-republic",
+        "label": "Islamic Republic of Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1979-hostage-crisis"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "khomeini-return",
+        "referenceType": "multimedia",
+        "title": "Khomeini's Return to Iran",
+        "link": "https://www.bbc.com/news/world-middle-east-14542438"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The revolution led to the establishment of a theocratic government and significant changes in Iran's foreign policy and domestic affairs.",
+      "keywords": ["revolution", "islamic republic", "theocracy", "regime change"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1979-hostage-crisis",
+    "type": "diplomatic-crisis",
+    "description": "Iranian students seize the US Embassy in Tehran, holding 52 American diplomats hostage for 444 days.",
+    "dateRange": {
+      "from": "1979-11-04",
+      "to": "1981-01-20",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Major diplomatic crisis that severely damaged US-Iran relations and influenced international politics."
+    },
+    "entities": [
+      {
+        "id": "us-embassy",
+        "label": "US Embassy Tehran",
+        "entityType": "place"
+      },
+      {
+        "id": "iranian-students",
+        "label": "Iranian Student Followers of the Imam's Line",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "US Embassy, Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1979-islamic-revolution"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "hostage-release",
+        "referenceType": "textual",
+        "title": "Algiers Accords",
+        "link": "https://www.state.gov/algiers-accords/"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The crisis led to US economic sanctions against Iran and created a lasting rift in bilateral relations.",
+      "keywords": ["hostage crisis", "diplomatic relations", "sanctions", "US-Iran relations"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1980-iran-iraq-war",
+    "type": "war",
+    "description": "The Iran-Iraq War begins when Iraq invades Iran, leading to an eight-year conflict that resulted in hundreds of thousands of casualties.",
+    "dateRange": {
+      "from": "1980-09-22",
+      "to": "1988-08-20",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Devastating war that shaped Iran's military and political development and regional dynamics."
+    },
+    "entities": [
+      {
+        "id": "saddam-hussein",
+        "label": "Saddam Hussein",
+        "entityType": "person"
+      },
+      {
+        "id": "iraq",
+        "label": "Iraq",
+        "entityType": "nation"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Iran-Iraq border",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 32.5,
+        "long": 47.5
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1979-hostage-crisis"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "un-resolution",
+        "referenceType": "textual",
+        "title": "UN Security Council Resolution 598",
+        "link": "https://undocs.org/S/RES/598(1987)"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The war ended in a stalemate but devastated both countries economically and socially, with chemical weapons used by Iraq.",
+      "keywords": ["war", "chemical weapons", "stalemate", "casualties", "economic impact"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1989-khomeini-death",
+    "type": "leadership-change",
+    "description": "Ayatollah Ruhollah Khomeini dies, leading to the appointment of Ayatollah Ali Khamenei as Supreme Leader.",
+    "dateRange": {
+      "from": "1989-06-03",
+      "to": "1989-06-03",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Critical leadership transition that shaped Iran's political direction for decades."
+    },
+    "entities": [
+      {
+        "id": "khomeini",
+        "label": "Ayatollah Ruhollah Khomeini",
+        "entityType": "person"
+      },
+      {
+        "id": "khamenei",
+        "label": "Ayatollah Ali Khamenei",
+        "entityType": "person"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1989-khamenei-appointment"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "khomeini-funeral",
+        "referenceType": "multimedia",
+        "title": "Khomeini's Funeral",
+        "link": "https://www.bbc.com/news/world-middle-east-48509595"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Khamenei's appointment marked a shift in Iran's leadership and continued the theocratic governance structure.",
+      "keywords": ["leadership transition", "supreme leader", "theocracy", "succession"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "2009-green-movement",
+    "type": "protest-movement",
+    "description": "Mass protests erupt following the disputed re-election of Mahmoud Ahmadinejad, known as the Green Movement.",
+    "dateRange": {
+      "from": "2009-06-12",
+      "to": "2010-02-11",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Major protest movement that challenged the government and showed significant public discontent."
+    },
+    "entities": [
+      {
+        "id": "ahmadinejad",
+        "label": "Mahmoud Ahmadinejad",
+        "entityType": "person"
+      },
+      {
+        "id": "mousavi",
+        "label": "Mir-Hossein Mousavi",
+        "entityType": "person"
+      },
+      {
+        "id": "green-movement",
+        "label": "Green Movement",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [],
+    "citations": [
+      {
+        "citationId": "green-movement-protests",
+        "referenceType": "multimedia",
+        "title": "Green Movement Protests",
+        "link": "https://www.bbc.com/news/world-middle-east-10936620"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The protests were violently suppressed by security forces, leading to arrests and deaths of protesters.",
+      "keywords": ["protests", "election fraud", "suppression", "civil rights", "democracy"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "2015-nuclear-deal",
+    "type": "diplomatic-agreement",
+    "description": "Iran and world powers reach the Joint Comprehensive Plan of Action (JCPOA), limiting Iran's nuclear program in exchange for sanctions relief.",
+    "dateRange": {
+      "from": "2015-07-14",
+      "to": "2015-07-14",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Historic diplomatic breakthrough that temporarily eased tensions and sanctions on Iran."
+    },
+    "entities": [
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      },
+      {
+        "id": "p5+1",
+        "label": "P5+1 (UN Security Council + Germany)",
+        "entityType": "group"
+      },
+      {
+        "id": "obama",
+        "label": "Barack Obama",
+        "entityType": "person"
+      }
+    ],
+    "location": {
+      "address": "Vienna",
+      "country": "Austria",
+      "coordinates": {
+        "lat": 48.2082,
+        "long": 16.3738
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "2018-us-withdrawal"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "jcpoa-text",
+        "referenceType": "textual",
+        "title": "Joint Comprehensive Plan of Action",
+        "link": "https://www.state.gov/joint-comprehensive-plan-of-action/"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The deal was hailed as a diplomatic success but faced criticism from hardliners in both Iran and the US.",
+      "keywords": ["nuclear deal", "diplomacy", "sanctions relief", "non-proliferation", "JCPOA"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "2018-us-withdrawal",
+    "type": "diplomatic-breakdown",
+    "description": "US President Donald Trump withdraws from the JCPOA nuclear deal and reimposes sanctions on Iran.",
+    "dateRange": {
+      "from": "2018-05-08",
+      "to": "2018-05-08",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Major setback to diplomatic relations and return to economic pressure on Iran."
+    },
+    "entities": [
+      {
+        "id": "trump",
+        "label": "Donald Trump",
+        "entityType": "person"
+      },
+      {
+        "id": "us",
+        "label": "United States",
+        "entityType": "nation"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "White House, Washington DC",
+      "country": "United States",
+      "coordinates": {
+        "lat": 38.8977,
+        "long": -77.0365
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "2015-nuclear-deal"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "trump-withdrawal",
+        "referenceType": "multimedia",
+        "title": "Trump's JCPOA Withdrawal Speech",
+        "link": "https://www.whitehouse.gov/briefings-statements/remarks-president-trump-joint-comprehensive-plan-action/"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The withdrawal led to renewed tensions, increased sanctions, and Iran's gradual return to nuclear activities.",
+      "keywords": ["sanctions", "nuclear program", "diplomatic breakdown", "economic pressure"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1783-bahrain-iran-rule",
+    "type": "territorial-control",
+    "description": "The Al Khalifa family, with Persian support, captures Bahrain from the Al Madhkur rulers, establishing Al Khalifa rule while maintaining Persian suzerainty over the islands.",
+    "dateRange": {
+      "from": "1783-01-01",
+      "to": "1783-12-31",
+      "precision": "year"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Establishment of Al Khalifa rule in Bahrain while maintaining Persian influence and control."
+    },
+    "entities": [
+      {
+        "id": "al-khalifa",
+        "label": "Al Khalifa Family",
+        "entityType": "group"
+      },
+      {
+        "id": "al-madhkur",
+        "label": "Al Madhkur Rulers",
+        "entityType": "group"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      },
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "place"
+      }
+    ],
+    "location": {
+      "address": "Bahrain Islands",
+      "country": "Bahrain",
+      "coordinates": {
+        "lat": 26.0667,
+        "long": 50.5577
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1820-bahrain-british-protection"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "al-khalifa-rule",
+        "referenceType": "textual",
+        "title": "Al Khalifa Rule in Bahrain",
+        "link": "https://www.britannica.com/place/Bahrain/History"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The Al Khalifa family would continue to rule Bahrain, but Persian influence remained significant until British intervention.",
+      "keywords": ["territorial control", "dynasty", "persian influence", "gulf islands"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1820-bahrain-british-protection",
+    "type": "treaty-agreement",
+    "description": "Britain signs the General Maritime Treaty with Bahrain, beginning British protection and influence over the islands, gradually reducing Persian control.",
+    "dateRange": {
+      "from": "1820-01-01",
+      "to": "1820-12-31",
+      "precision": "year"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Beginning of British influence in Bahrain and gradual reduction of Persian suzerainty."
+    },
+    "entities": [
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      },
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "place"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Bahrain",
+      "country": "Bahrain",
+      "coordinates": {
+        "lat": 26.0667,
+        "long": 50.5577
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1783-bahrain-iran-rule"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "general-maritime-treaty",
+        "referenceType": "textual",
+        "title": "General Maritime Treaty of 1820",
+        "link": "https://www.britannica.com/event/Trucial-States"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "This treaty marked the beginning of British dominance in the Persian Gulf and the gradual erosion of Persian influence over Bahrain.",
+      "keywords": ["treaty", "british influence", "persian gulf", "protection", "maritime"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1861-bahrain-british-protectorate",
+    "type": "protectorate-establishment",
+    "description": "Bahrain officially becomes a British protectorate through the Perpetual Truce of Peace and Friendship, effectively ending Persian suzerainty over the islands.",
+    "dateRange": {
+      "from": "1861-05-31",
+      "to": "1861-05-31",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 8,
+      "description": "Formal establishment of British protectorate status, ending Persian control over Bahrain."
+    },
+    "entities": [
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      },
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "place"
+      },
+      {
+        "id": "persia",
+        "label": "Persia",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Bahrain",
+      "country": "Bahrain",
+      "coordinates": {
+        "lat": 26.0667,
+        "long": 50.5577
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1820-bahrain-british-protection"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "perpetual-truce",
+        "referenceType": "textual",
+        "title": "Perpetual Truce of Peace and Friendship",
+        "link": "https://www.britannica.com/place/Bahrain/History"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "This treaty formally ended Persian claims to Bahrain and established British control over the islands' foreign affairs and defense.",
+      "keywords": ["protectorate", "british control", "treaty", "foreign affairs", "defense"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1923-bahrain-persian-claims",
+    "type": "territorial-dispute",
+    "description": "Persia (Iran) formally protests British control of Bahrain and asserts historical claims to the islands, beginning a long-standing territorial dispute.",
+    "dateRange": {
+      "from": "1923-01-01",
+      "to": "1923-12-31",
+      "precision": "year"
+    },
+    "priority": {
+      "range": 10,
+      "level": 7,
+      "description": "Iran's formal assertion of claims to Bahrain, beginning decades of diplomatic disputes."
+    },
+    "entities": [
+      {
+        "id": "persia",
+        "label": "Persia (Iran)",
+        "entityType": "nation"
+      },
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      },
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "place"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1861-bahrain-british-protectorate"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "persian-bahrain-claims",
+        "referenceType": "textual",
+        "title": "Iran's Claims to Bahrain",
+        "link": "https://www.jstor.org/stable/4323108"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Iran's claims were based on historical Persian control and cultural ties, but were consistently rejected by Britain and the international community.",
+      "keywords": ["territorial claims", "diplomatic dispute", "historical claims", "persian gulf"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1970-bahrain-independence-referendum",
+    "type": "independence-referendum",
+    "description": "The United Nations conducts a referendum in Bahrain, with the majority of Bahrainis voting for independence rather than joining Iran, leading to UN recognition of Bahrain's independence.",
+    "dateRange": {
+      "from": "1970-03-14",
+      "to": "1970-03-14",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Critical referendum that determined Bahrain's independence and ended Iranian territorial claims."
+    },
+    "entities": [
+      {
+        "id": "un",
+        "label": "United Nations",
+        "entityType": "group"
+      },
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "place"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Bahrain",
+      "country": "Bahrain",
+      "coordinates": {
+        "lat": 26.0667,
+        "long": 50.5577
+      }
+    },
+    "relationships": [
+      {
+        "type": "succeeded-by",
+        "reference": "1971-bahrain-independence"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "bahrain-referendum",
+        "referenceType": "textual",
+        "title": "UN Bahrain Referendum",
+        "link": "https://www.un.org/en/observances/decade-people-african-descent"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The referendum showed overwhelming support for independence, with 99.7% of Bahrainis voting against joining Iran.",
+      "keywords": ["referendum", "independence", "UN", "self-determination", "territorial dispute"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "1971-bahrain-independence",
+    "type": "independence-declaration",
+    "description": "Bahrain officially declares independence from Britain, becoming a sovereign state and ending centuries of Persian and British control over the islands.",
+    "dateRange": {
+      "from": "1971-08-15",
+      "to": "1971-08-15",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Formal independence of Bahrain, ending all foreign control and establishing full sovereignty."
+    },
+    "entities": [
+      {
+        "id": "bahrain",
+        "label": "Bahrain",
+        "entityType": "nation"
+      },
+      {
+        "id": "britain",
+        "label": "United Kingdom",
+        "entityType": "nation"
+      },
+      {
+        "id": "iran",
+        "label": "Iran",
+        "entityType": "nation"
+      }
+    ],
+    "location": {
+      "address": "Manama, Bahrain",
+      "country": "Bahrain",
+      "coordinates": {
+        "lat": 26.0667,
+        "long": 50.5577
+      }
+    },
+    "relationships": [
+      {
+        "type": "preceded-by",
+        "reference": "1970-bahrain-independence-referendum"
+      }
+    ],
+    "citations": [
+      {
+        "citationId": "bahrain-independence",
+        "referenceType": "textual",
+        "title": "Bahrain Independence",
+        "link": "https://www.britannica.com/place/Bahrain/History"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "Bahrain became the first Gulf state to gain independence, setting a precedent for other British protectorates in the region.",
+      "keywords": ["independence", "sovereignty", "gulf states", "british withdrawal", "nationhood"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  },
+  {
+    "id": "2022-mahsa-amini-protests",
+    "type": "protest-movement",
+    "description": "Nationwide protests erupt following the death of Mahsa Amini in police custody, sparking the 'Woman, Life, Freedom' movement.",
+    "dateRange": {
+      "from": "2022-09-16",
+      "to": "2023-01-01",
+      "precision": "day"
+    },
+    "priority": {
+      "range": 10,
+      "level": 9,
+      "description": "Major protest movement challenging Iran's social and political system, particularly women's rights."
+    },
+    "entities": [
+      {
+        "id": "mahsa-amini",
+        "label": "Mahsa Amini",
+        "entityType": "person"
+      },
+      {
+        "id": "morality-police",
+        "label": "Morality Police",
+        "entityType": "group"
+      },
+      {
+        "id": "woman-life-freedom",
+        "label": "Woman, Life, Freedom Movement",
+        "entityType": "group"
+      }
+    ],
+    "location": {
+      "address": "Tehran",
+      "country": "Iran",
+      "coordinates": {
+        "lat": 35.6892,
+        "long": 51.3890
+      }
+    },
+    "relationships": [],
+    "citations": [
+      {
+        "citationId": "amini-death",
+        "referenceType": "textual",
+        "title": "Mahsa Amini's Death and Protests",
+        "link": "https://www.bbc.com/news/world-middle-east-62954747"
+      }
+    ],
+    "additionalInfo": {
+      "notes": "The protests spread across Iran and internationally, leading to hundreds of deaths and thousands of arrests.",
+      "keywords": ["women's rights", "protests", "human rights", "social movement", "police brutality"]
+    },
+    "metadata": {
+      "created": "2024-01-01T00:00:00Z",
+      "modified": "2024-01-01T00:00:00Z",
+      "version": "1.0"
+    }
+  }
+]
