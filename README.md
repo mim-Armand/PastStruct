@@ -31,6 +31,19 @@ Historical data is often fragmented, stored in incompatible formats, and difficu
 {
   "id": "uuid",
   "type": "event-type",
+  "emoji": "🎯",
+  "categories": [
+    {
+      "main": "Category Name",
+      "sub": "Subcategory Name"
+    }
+  ],
+  "funFacts": [
+    "Interesting fact about the event",
+    "Another engaging detail",
+    "Memorable historical tidbit",
+    "Educational insight"
+  ],
   "description": "Detailed description of the historical event.",
   "dateRange": {
     "from": "ISO8601 date",
@@ -88,6 +101,42 @@ Historical data is often fragmented, stored in incompatible formats, and difficu
 ## 📖 Documentation
 
 Comprehensive documentation including detailed schema definitions, examples, and guidelines can be found in the `/docs` directory.
+
+### 📂 Category System
+
+PastStruct uses a comprehensive 17-category classification system to organize historical events thematically. Each category includes multiple subcategories for precise classification.
+
+**Category File**: `category.yml` in the root directory contains the complete category system with:
+- 17 main categories with emojis and descriptions
+- 6-8 subcategories per main category
+- Usage guidelines and best practices
+- Version information and maintenance details
+
+**Key Categories Include**:
+- 🛡️ **War & Conflict** - Military events, revolutions, treaties
+- 👑 **Politics & Government** - Dynasties, elections, leadership changes
+- ✝️🕉️☪️✡️ **Religion & Spirituality** - Religious developments and conflicts
+- 🧠 **Philosophy & Ideas** - Intellectual movements and philosophical works
+- 🎨 **Art & Culture** - Cultural movements and artistic developments
+- 🧬 **Science & Discovery** - Scientific breakthroughs and innovations
+- ⚙️ **Industry & Technology** - Industrial revolutions and technological advances
+- 💰 **Economics & Trade** - Economic systems and trade networks
+- 🧭 **Exploration & Expansion** - Geographic discoveries and colonization
+- ⚖️ **Law & Justice** - Legal systems and human rights milestones
+- 👥 **Society & Daily Life** - Social structures and cultural practices
+- 🌍 **Environment & Climate** - Environmental changes and natural disasters
+- 🦠 **Health & Medicine** - Medical developments and public health
+- 🌐 **Media & Communication** - Communication technologies and media
+- 🌎 **Globalization & International Relations** - International cooperation and diplomacy
+- 🪙 **Economy of Knowledge** - Knowledge systems and education
+- 🧩 **Historical Mysteries & Controversies** - Unexplained events and debates
+
+**Benefits of the Category System**:
+- **Multi-dimensional Classification**: Events can belong to multiple categories
+- **Flexible Filtering**: Users can filter events by theme, era, or type
+- **Thematic Organization**: Related events can be grouped and analyzed together
+- **Educational Value**: Categories help learners understand historical themes and connections
+- **Search Enhancement**: Categories improve searchability and discovery
 
 ---
 

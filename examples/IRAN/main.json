@@ -2,6 +2,23 @@
   {
     "id": "550bc-cyrus-empire",
     "type": "empire-founding",
+    "emoji": "👑🏛️",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Cyrus the Great was the first ruler to implement a policy of religious tolerance",
+      "The Cyrus Cylinder is considered the first declaration of human rights",
+      "Cyrus was known for his respectful treatment of conquered peoples",
+      "The Achaemenid Empire became the largest empire in ancient history at its peak"
+    ],
     "description": "Cyrus the Great establishes the Achaemenid Empire, creating the first Persian Empire and one of the largest empires in ancient history.",
     "dateRange": {
       "from": "550-01-01",
@@ -55,6 +72,23 @@
   {
     "id": "1789-qajar-dynasty-founded",
     "type": "dynasty-establishment",
+    "emoji": "👑⚔️",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Agha Mohammad Khan was a eunuch who rose from humble origins to become Shah",
+      "He established Tehran as the capital of Iran, which it remains to this day",
+      "The Qajar dynasty would rule Iran for 136 years until 1925",
+      "Agha Mohammad Khan was known for his brutal methods of consolidating power"
+    ],
     "description": "Agha Mohammad Khan Qajar establishes the Qajar dynasty after defeating the Zand dynasty, becoming the first Qajar Shah and reunifying Iran.",
     "dateRange": {
       "from": "1789-03-21",
@@ -123,6 +157,23 @@
   {
     "id": "1797-agha-mohammad-assassination",
     "type": "assassination",
+    "emoji": "🗡️💀",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "War & Conflict",
+        "sub": "Political violence"
+      }
+    ],
+    "funFacts": [
+      "Agha Mohammad Khan was assassinated while on campaign in the Caucasus",
+      "His assassin was reportedly motivated by personal revenge",
+      "He was succeeded by his nephew Fath-Ali Shah",
+      "The assassination occurred just 8 years after founding the dynasty"
+    ],
     "description": "Agha Mohammad Khan Qajar is assassinated in Shusha, leading to the ascension of his nephew Fath-Ali Shah Qajar.",
     "dateRange": {
       "from": "1797-06-17",
@@ -181,6 +232,23 @@
   {
     "id": "1804-russo-persian-war",
     "type": "war",
+    "emoji": "⚔️🇷🇺",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Wars and battles"
+      },
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Colonization and decolonization"
+      }
+    ],
+    "funFacts": [
+      "This was the first of two major wars between Persia and Russia in the 19th century",
+      "The war was fought primarily over control of the Caucasus region",
+      "Persia was technologically outmatched by the modern Russian army",
+      "The war lasted for 9 years, one of the longest conflicts of the era"
+    ],
     "description": "The first Russo-Persian War begins, marking the start of a series of conflicts between Persia and Russia over control of the Caucasus region.",
     "dateRange": {
       "from": "1804-06-01",
@@ -244,6 +312,23 @@
   {
     "id": "1813-treaty-gulistan",
     "type": "treaty",
+    "emoji": "📜🤝",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Treaties and peace accords"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Foundational legal codes"
+      }
+    ],
+    "funFacts": [
+      "The Treaty of Gulistan was signed in the village of Gulistan in Karabakh",
+      "This was Persia's first major territorial loss to a European power",
+      "The treaty established the modern border between Iran and Russia",
+      "Georgia, Dagestan, and parts of Azerbaijan were ceded to Russia"
+    ],
     "description": "The Treaty of Gulistan ends the first Russo-Persian War, forcing Persia to cede territories including Georgia, Dagestan, and parts of Azerbaijan to Russia.",
     "dateRange": {
       "from": "1813-10-24",
@@ -307,6 +392,23 @@
   {
     "id": "1826-russo-persian-war-second",
     "type": "war",
+    "emoji": "⚔️🔥",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Wars and battles"
+      },
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Colonization and decolonization"
+      }
+    ],
+    "funFacts": [
+      "Persia attempted to regain territories lost in the first war",
+      "The war lasted only 18 months, much shorter than the first conflict",
+      "Russian forces captured Yerevan and Nakhichevan",
+      "This war marked the definitive end of Persian influence in the Caucasus"
+    ],
     "description": "The second Russo-Persian War begins when Persia attempts to regain territories lost in the Treaty of Gulistan.",
     "dateRange": {
       "from": "1826-07-16",
@@ -370,6 +472,23 @@
   {
     "id": "1828-treaty-turkmenchay",
     "type": "treaty",
+    "emoji": "📜🌊",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Treaties and peace accords"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Foundational legal codes"
+      }
+    ],
+    "funFacts": [
+      "The Treaty of Turkmenchay established the Aras River as the border",
+      "Yerevan and Nakhichevan were permanently ceded to Russia",
+      "This treaty created the modern border between Iran and Azerbaijan",
+      "The treaty included provisions for Russian commercial privileges in Persia"
+    ],
     "description": "The Treaty of Turkmenchay ends the second Russo-Persian War, ceding Yerevan, Nakhichevan, and other territories to Russia, and establishing the Aras River as the border.",
     "dateRange": {
       "from": "1828-02-22",
@@ -433,6 +552,23 @@
   {
     "id": "1834-fath-ali-shah-death",
     "type": "leadership-change",
+    "emoji": "👑💀",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Fath-Ali Shah ruled for 37 years, one of the longest Qajar reigns",
+      "His reign was marked by significant territorial losses to Russia",
+      "He was known for his large harem and many children",
+      "His death marked the beginning of Persia's decline as a regional power"
+    ],
     "description": "Fath-Ali Shah Qajar dies after a 37-year reign, during which Persia lost significant territories to Russia in the Caucasus wars.",
     "dateRange": {
       "from": "1834-10-23",
@@ -491,6 +627,23 @@
   {
     "id": "1848-naser-al-din-shah-ascension",
     "type": "ascension",
+    "emoji": "👑✨",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Naser al-Din Shah would become the longest-reigning Qajar monarch (48 years)",
+      "He was the first Persian Shah to visit Europe",
+      "He attempted various modernization reforms during his reign",
+      "His reign saw the beginning of significant foreign influence in Persia"
+    ],
     "description": "Naser al-Din Shah Qajar ascends to the throne, beginning a 48-year reign that would see Persia's modernization attempts and further foreign influence.",
     "dateRange": {
       "from": "1848-09-17",
@@ -549,6 +702,23 @@
   {
     "id": "1872-reuter-concession",
     "type": "economic-concession",
+    "emoji": "💰📋",
+    "categories": [
+      {
+        "main": "Economics & Trade",
+        "sub": "Globalization and capitalism"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Political movements and ideologies"
+      }
+    ],
+    "funFacts": [
+      "The Reuter Concession was one of the most controversial economic deals in Persian history",
+      "Baron Julius de Reuter was the founder of the Reuters news agency",
+      "The concession was cancelled after just one year due to public opposition",
+      "This marked the beginning of British economic influence in Persia"
+    ],
     "description": "Naser al-Din Shah grants the Reuter Concession to British businessman Baron Julius de Reuter, giving him extensive economic rights in Persia.",
     "dateRange": {
       "from": "1872-07-25",
@@ -612,6 +782,23 @@
   {
     "id": "1896-naser-al-din-assassination",
     "type": "assassination",
+    "emoji": "🗡️💀",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "War & Conflict",
+        "sub": "Political violence"
+      }
+    ],
+    "funFacts": [
+      "Naser al-Din Shah was assassinated at the Shah Abdul Azim shrine",
+      "His assassin was Mirza Reza Kermani, a follower of Jamal al-Din al-Afghani",
+      "He was the longest-reigning Qajar Shah (48 years)",
+      "The assassination was motivated by opposition to foreign influence"
+    ],
     "description": "Naser al-Din Shah Qajar is assassinated by Mirza Reza Kermani, a follower of Jamal al-Din al-Afghani, at the Shah Abdul Azim shrine.",
     "dateRange": {
       "from": "1896-05-01",
@@ -675,6 +862,27 @@
   {
     "id": "1906-constitutional-revolution",
     "type": "revolution",
+    "emoji": "📜⚖️",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Revolutions and uprisings"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Constitutions and legal reforms"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Human rights milestones"
+      }
+    ],
+    "funFacts": [
+      "This was the first constitutional revolution in the Middle East",
+      "The revolution established Iran's first parliament (Majlis)",
+      "It marked the beginning of constitutional monarchy in Iran",
+      "The revolution was supported by both religious and secular groups"
+    ],
     "description": "The Persian Constitutional Revolution forces Mozaffar al-Din Shah to grant a constitution and establish a parliament (Majlis), marking the beginning of constitutional monarchy in Iran.",
     "dateRange": {
       "from": "1906-08-05",
@@ -738,6 +946,23 @@
   {
     "id": "1925-qajar-dynasty-overthrown",
     "type": "dynasty-overthrow",
+    "emoji": "👑💥",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      },
+      {
+        "main": "War & Conflict",
+        "sub": "Military coups"
+      }
+    ],
+    "funFacts": [
+      "The Qajar dynasty ruled Iran for 136 years (1789-1925)",
+      "Reza Khan was a military officer who rose to power",
+      "The overthrow marked the end of traditional monarchy in Iran",
+      "This event paved the way for Iran's modernization under the Pahlavis"
+    ],
     "description": "Reza Khan stages a coup and overthrows the Qajar dynasty, ending 136 years of Qajar rule and establishing the Pahlavi dynasty.",
     "dateRange": {
       "from": "1925-12-12",
@@ -806,6 +1031,23 @@
   {
     "id": "1925-reza-shah-coup",
     "type": "coup-d-etat",
+    "emoji": "⚔️👑",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Military coups"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      }
+    ],
+    "funFacts": [
+      "Reza Khan was commander of the Persian Cossack Brigade",
+      "He was known for his strong nationalist and modernizing vision",
+      "The coup was bloodless and widely supported by the public",
+      "This marked the beginning of Iran's modernization period"
+    ],
     "description": "Reza Khan, commander of the Persian Cossack Brigade, stages a coup and overthrows the Qajar dynasty, establishing the Pahlavi dynasty.",
     "dateRange": {
       "from": "1925-12-12",
@@ -869,6 +1111,23 @@
   {
     "id": "1925-reza-shah-coronation",
     "type": "coronation",
+    "emoji": "👑✨",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Reza Shah was the first Pahlavi monarch",
+      "He chose the name 'Pahlavi' to connect with ancient Persian heritage",
+      "The coronation marked the formal beginning of the Pahlavi era",
+      "He would rule for 16 years before being forced to abdicate"
+    ],
     "description": "Reza Khan is officially crowned as Reza Shah Pahlavi, becoming the first Shah of the Pahlavi dynasty.",
     "dateRange": {
       "from": "1925-12-15",
@@ -927,6 +1186,23 @@
   {
     "id": "1935-persia-iran-rename",
     "type": "name-change",
+    "emoji": "🏛️🇮🇷",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Founding or collapse of nations"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "The name change was part of Reza Shah's modernization reforms",
+      "Iran means 'Land of the Aryans' in Persian",
+      "The change reflected Iran's connection to its ancient Aryan heritage",
+      "Many countries continued to use 'Persia' for decades afterward"
+    ],
     "description": "Reza Shah officially changes the country's name from Persia to Iran, reflecting the nation's Aryan heritage and modern identity.",
     "dateRange": {
       "from": "1935-03-21",
@@ -985,6 +1261,23 @@
   {
     "id": "1941-reza-shah-abdication",
     "type": "abdication",
+    "emoji": "👑📤",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "War & Conflict",
+        "sub": "Wars and battles"
+      }
+    ],
+    "funFacts": [
+      "Reza Shah was forced to abdicate by British and Soviet forces",
+      "He was exiled to South Africa where he died in 1944",
+      "The abdication was due to his perceived pro-German sympathies",
+      "His son Mohammad Reza Shah succeeded him at age 21"
+    ],
     "description": "Reza Shah is forced to abdicate by British and Soviet forces who occupied Iran during World War II, leading to his exile and the ascension of his son Mohammad Reza Shah.",
     "dateRange": {
       "from": "1941-09-16",
@@ -1053,6 +1346,23 @@
   {
     "id": "1941-mohammad-reza-shah-ascension",
     "type": "ascension",
+    "emoji": "👑👶",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      }
+    ],
+    "funFacts": [
+      "Mohammad Reza Shah was only 21 years old when he ascended",
+      "He would rule Iran for 37 years (1941-1979)",
+      "His reign saw Iran's transformation into a modern state",
+      "He was the last Shah of Iran before the Islamic Revolution"
+    ],
     "description": "Mohammad Reza Shah Pahlavi ascends to the throne following his father's abdication, beginning his 37-year reign.",
     "dateRange": {
       "from": "1941-09-16",
@@ -1111,6 +1421,27 @@
   {
     "id": "1953-mossadegh-coup",
     "type": "coup-d-etat",
+    "emoji": "🛢️💥",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Military coups"
+      },
+      {
+        "main": "Economics & Trade",
+        "sub": "Globalization and capitalism"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Political movements and ideologies"
+      }
+    ],
+    "funFacts": [
+      "The coup was codenamed 'Operation Ajax' by the CIA",
+      "Mossadegh had nationalized Iran's oil industry",
+      "The coup restored full power to the Shah",
+      "This event created lasting anti-American sentiment in Iran"
+    ],
     "description": "The CIA and British MI6 orchestrate a coup that overthrows Prime Minister Mohammad Mossadegh, who had nationalized Iran's oil industry, restoring full power to Mohammad Reza Shah.",
     "dateRange": {
       "from": "1953-08-19",
@@ -1179,6 +1510,27 @@
   {
     "id": "1963-white-revolution",
     "type": "reform-movement",
+    "emoji": "⚪🔄",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Political movements and ideologies"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Social classes and caste systems"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Human rights milestones"
+      }
+    ],
+    "funFacts": [
+      "The White Revolution included 19 major reform programs",
+      "It included women's suffrage and land redistribution",
+      "The reforms alienated traditional religious leaders",
+      "The name 'White' symbolized a bloodless revolution"
+    ],
     "description": "Mohammad Reza Shah launches the White Revolution, a series of modernization reforms including land redistribution, women's suffrage, and literacy programs.",
     "dateRange": {
       "from": "1963-01-26",
@@ -1237,6 +1589,27 @@
   {
     "id": "1979-islamic-revolution",
     "type": "revolution",
+    "emoji": "☪️🔥",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Revolutions and uprisings"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      },
+      {
+        "main": "Religion & Spirituality",
+        "sub": "Religious reforms"
+      }
+    ],
+    "funFacts": [
+      "The revolution overthrew 2,500 years of monarchy in Iran",
+      "Ayatollah Khomeini returned from exile after 15 years",
+      "The revolution was supported by both religious and secular groups",
+      "It established the world's first modern theocratic state"
+    ],
     "description": "The Iranian Revolution overthrows the Pahlavi dynasty and establishes the Islamic Republic of Iran under Ayatollah Ruhollah Khomeini.",
     "dateRange": {
       "from": "1979-01-01",
@@ -1300,6 +1673,27 @@
   {
     "id": "1979-hostage-crisis",
     "type": "diplomatic-crisis",
+    "emoji": "🏛️🔒",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Political violence"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Political movements and ideologies"
+      },
+      {
+        "main": "Globalization & International Relations",
+        "sub": "Alliances and pacts"
+      }
+    ],
+    "funFacts": [
+      "The hostages were held for exactly 444 days",
+      "The crisis led to the failure of Jimmy Carter's re-election",
+      "The hostages were released on the day of Ronald Reagan's inauguration",
+      "This event severely damaged US-Iran relations for decades"
+    ],
     "description": "Iranian students seize the US Embassy in Tehran, holding 52 American diplomats hostage for 444 days.",
     "dateRange": {
       "from": "1979-11-04",
@@ -1358,6 +1752,23 @@
   {
     "id": "1980-iran-iraq-war",
     "type": "war",
+    "emoji": "⚔️🔥",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Wars and battles"
+      },
+      {
+        "main": "Globalization & International Relations",
+        "sub": "Alliances and pacts"
+      }
+    ],
+    "funFacts": [
+      "The war lasted 8 years and resulted in over 1 million casualties",
+      "Iraq used chemical weapons against Iran",
+      "The war ended in a stalemate with no clear winner",
+      "Both countries were devastated economically by the conflict"
+    ],
     "description": "The Iran-Iraq War begins when Iraq invades Iran, leading to an eight-year conflict that resulted in hundreds of thousands of casualties.",
     "dateRange": {
       "from": "1980-09-22",
@@ -1421,6 +1832,23 @@
   {
     "id": "1989-khomeini-death",
     "type": "leadership-change",
+    "emoji": "☪️💀",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Assassinations and leadership changes"
+      },
+      {
+        "main": "Religion & Spirituality",
+        "sub": "Religious reforms"
+      }
+    ],
+    "funFacts": [
+      "Khomeini's funeral was attended by millions of Iranians",
+      "He was succeeded by Ayatollah Ali Khamenei",
+      "Khomeini had ruled Iran for 10 years after the revolution",
+      "His death marked a transition in Iran's leadership"
+    ],
     "description": "Ayatollah Ruhollah Khomeini dies, leading to the appointment of Ayatollah Ali Khamenei as Supreme Leader.",
     "dateRange": {
       "from": "1989-06-03",
@@ -1479,6 +1907,27 @@
   {
     "id": "2009-green-movement",
     "type": "protest-movement",
+    "emoji": "🟢👥",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Revolutions and uprisings"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Elections and referendums"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Human rights milestones"
+      }
+    ],
+    "funFacts": [
+      "The movement was named after the green color of Mousavi's campaign",
+      "Protests were the largest since the 1979 revolution",
+      "The movement was heavily suppressed by security forces",
+      "Social media played a key role in organizing protests"
+    ],
     "description": "Mass protests erupt following the disputed re-election of Mahmoud Ahmadinejad, known as the Green Movement.",
     "dateRange": {
       "from": "2009-06-12",
@@ -1537,6 +1986,27 @@
   {
     "id": "2015-nuclear-deal",
     "type": "diplomatic-agreement",
+    "emoji": "☢️🤝",
+    "categories": [
+      {
+        "main": "Globalization & International Relations",
+        "sub": "Global summits and agreements"
+      },
+      {
+        "main": "War & Conflict",
+        "sub": "Treaties and peace accords"
+      },
+      {
+        "main": "Science & Discovery",
+        "sub": "Technological milestones"
+      }
+    ],
+    "funFacts": [
+      "The deal was negotiated for over 2 years",
+      "It was signed by 7 countries plus the EU",
+      "The deal lifted economic sanctions on Iran",
+      "It was hailed as a major diplomatic breakthrough"
+    ],
     "description": "Iran and world powers reach the Joint Comprehensive Plan of Action (JCPOA), limiting Iran's nuclear program in exchange for sanctions relief.",
     "dateRange": {
       "from": "2015-07-14",
@@ -1600,6 +2070,23 @@
   {
     "id": "2018-us-withdrawal",
     "type": "diplomatic-breakdown",
+    "emoji": "🇺🇸❌",
+    "categories": [
+      {
+        "main": "Globalization & International Relations",
+        "sub": "Global summits and agreements"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Political movements and ideologies"
+      }
+    ],
+    "funFacts": [
+      "Trump announced the withdrawal on live television",
+      "The withdrawal was opposed by all other signatories",
+      "It led to the reimposition of US sanctions on Iran",
+      "The withdrawal was a major foreign policy decision"
+    ],
     "description": "US President Donald Trump withdraws from the JCPOA nuclear deal and reimposes sanctions on Iran.",
     "dateRange": {
       "from": "2018-05-08",
@@ -1663,6 +2150,23 @@
   {
     "id": "1783-bahrain-iran-rule",
     "type": "territorial-control",
+    "emoji": "🏝️👑",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Rise and fall of empires or dynasties"
+      },
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Colonization and decolonization"
+      }
+    ],
+    "funFacts": [
+      "The Al Khalifa family still rules Bahrain today",
+      "Bahrain was strategically important for Persian Gulf trade",
+      "The islands had been under various Persian dynasties for centuries",
+      "This marked the beginning of modern Bahraini history"
+    ],
     "description": "The Al Khalifa family, with Persian support, captures Bahrain from the Al Madhkur rulers, establishing Al Khalifa rule while maintaining Persian suzerainty over the islands.",
     "dateRange": {
       "from": "1783-01-01",
@@ -1731,6 +2235,23 @@
   {
     "id": "1820-bahrain-british-protection",
     "type": "treaty-agreement",
+    "emoji": "🇬🇧🏝️",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Treaties and peace accords"
+      },
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Colonization and decolonization"
+      }
+    ],
+    "funFacts": [
+      "This was part of Britain's strategy to control the Persian Gulf",
+      "The treaty was signed to combat piracy in the region",
+      "Britain would dominate the Persian Gulf for over 150 years",
+      "This marked the beginning of British influence in the region"
+    ],
     "description": "Britain signs the General Maritime Treaty with Bahrain, beginning British protection and influence over the islands, gradually reducing Persian control.",
     "dateRange": {
       "from": "1820-01-01",
@@ -1794,6 +2315,23 @@
   {
     "id": "1861-bahrain-british-protectorate",
     "type": "protectorate-establishment",
+    "emoji": "🇬🇧🛡️",
+    "categories": [
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Colonization and decolonization"
+      },
+      {
+        "main": "Politics & Government",
+        "sub": "Founding or collapse of nations"
+      }
+    ],
+    "funFacts": [
+      "The Perpetual Truce of Peace and Friendship is still in effect",
+      "This formally ended Persian claims to Bahrain",
+      "Britain controlled Bahrain's foreign affairs and defense",
+      "The protectorate status lasted for 110 years"
+    ],
     "description": "Bahrain officially becomes a British protectorate through the Perpetual Truce of Peace and Friendship, effectively ending Persian suzerainty over the islands.",
     "dateRange": {
       "from": "1861-05-31",
@@ -1857,6 +2395,23 @@
   {
     "id": "1923-bahrain-persian-claims",
     "type": "territorial-dispute",
+    "emoji": "🏝️⚖️",
+    "categories": [
+      {
+        "main": "Globalization & International Relations",
+        "sub": "Alliances and pacts"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Landmark court decisions"
+      }
+    ],
+    "funFacts": [
+      "Iran's claims were based on historical Persian control",
+      "The dispute lasted for over 50 years",
+      "Britain consistently rejected Iranian claims",
+      "The dispute was finally resolved by UN referendum"
+    ],
     "description": "Persia (Iran) formally protests British control of Bahrain and asserts historical claims to the islands, beginning a long-standing territorial dispute.",
     "dateRange": {
       "from": "1923-01-01",
@@ -1920,6 +2475,27 @@
   {
     "id": "1970-bahrain-independence-referendum",
     "type": "independence-referendum",
+    "emoji": "🗳️🏝️",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Elections and referendums"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Human rights milestones"
+      },
+      {
+        "main": "Globalization & International Relations",
+        "sub": "United Nations and global bodies"
+      }
+    ],
+    "funFacts": [
+      "99.7% of Bahrainis voted for independence",
+      "The referendum was conducted by the United Nations",
+      "This was the first time the UN resolved a territorial dispute",
+      "The result ended Iran's claims to Bahrain permanently"
+    ],
     "description": "The United Nations conducts a referendum in Bahrain, with the majority of Bahrainis voting for independence rather than joining Iran, leading to UN recognition of Bahrain's independence.",
     "dateRange": {
       "from": "1970-03-14",
@@ -1983,6 +2559,23 @@
   {
     "id": "1971-bahrain-independence",
     "type": "independence-declaration",
+    "emoji": "🏝️🎉",
+    "categories": [
+      {
+        "main": "Politics & Government",
+        "sub": "Founding or collapse of nations"
+      },
+      {
+        "main": "Exploration & Expansion",
+        "sub": "Decolonization"
+      }
+    ],
+    "funFacts": [
+      "Bahrain was the first Gulf state to gain independence",
+      "It became a member of the United Nations the same year",
+      "The independence ended 188 years of foreign control",
+      "Bahrain became a constitutional monarchy"
+    ],
     "description": "Bahrain officially declares independence from Britain, becoming a sovereign state and ending centuries of Persian and British control over the islands.",
     "dateRange": {
       "from": "1971-08-15",
@@ -2046,6 +2639,27 @@
   {
     "id": "2022-mahsa-amini-protests",
     "type": "protest-movement",
+    "emoji": "👩‍🦰✊",
+    "categories": [
+      {
+        "main": "War & Conflict",
+        "sub": "Revolutions and uprisings"
+      },
+      {
+        "main": "Law & Justice",
+        "sub": "Human rights milestones"
+      },
+      {
+        "main": "Society & Daily Life",
+        "sub": "Gender roles and rights"
+      }
+    ],
+    "funFacts": [
+      "The movement was sparked by the death of a 22-year-old woman",
+      "Protests spread to over 150 cities across Iran",
+      "The movement used the slogan 'Woman, Life, Freedom'",
+      "It was one of the largest protests in Iran's recent history"
+    ],
     "description": "Nationwide protests erupt following the death of Mahsa Amini in police custody, sparking the 'Woman, Life, Freedom' movement.",
     "dateRange": {
       "from": "2022-09-16",
